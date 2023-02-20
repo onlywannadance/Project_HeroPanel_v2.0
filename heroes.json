@@ -1,0 +1,105 @@
+{
+  "heroes": [
+    {
+      "id": 1,
+      "name": "Первый герой",
+      "description": "Первый герой в рейтинге!",
+      "element": "fire"
+    },
+    {
+      "id": "d628c8ab-c7c7-4c07-89c8-006a81035032",
+      "name": "fsdafds",
+      "description": "fsdfsdf",
+      "element": "dfsdf"
+    },
+    {
+      "id": "83696062-36d9-4353-b069-8727dc7b4f9d",
+      "name": "fsfsd",
+      "description": "sdfsdf",
+      "element": "fsdafds"
+    },
+    {
+      "id": "91097aa8-99da-4922-aa4a-0feb00f503a7",
+      "name": "sdfdsfsdf",
+      "description": "asdaf",
+      "element": "wind"
+    },
+    {
+      "id": "a9c78eb8-fc4d-43fd-a2a5-71970194a7bc",
+      "name": "dsfsd",
+      "description": "fsdfsdf",
+      "element": "wind"
+    },
+    {
+      "id": "8278c469-304f-4e23-b6a9-f477ea9128b6",
+      "name": "sdfsdf",
+      "description": "sdfsdfsf",
+      "element": "water"
+    },
+    {
+      "id": "298561fb-2931-494b-b0db-dbf7a918406e",
+      "name": "fdsfsdf",
+      "description": "sdfsdf",
+      "element": ""
+    },
+    {
+      "id": "67044331-7f0a-4d3e-b1d4-459537aab850",
+      "name": "sdfdsf",
+      "description": "sdfsdf",
+      "element": "fire"
+    },
+    {
+      "id": "31148198-e4b0-4b94-9d7e-02c21a3196bd",
+      "name": "fdsfsdf",
+      "description": "sdfsdf",
+      "element": "wind"
+    },
+    {
+      "id": "6dd04190-0c6d-4234-b701-7c117022c8fd",
+      "name": "fsdfsdf",
+      "description": "sdfsdfsd",
+      "element": "wind"
+    },
+    {
+      "id": "b2de411e-ef28-4aad-b9e1-53ddbe0cb01f",
+      "name": "ываывавыа",
+      "description": "ываываыв",
+      "element": "fire"
+    }
+  ],
+  "filters": [
+    {
+      "id": "all",
+      "name": "all",
+      "label": "Все",
+      "className": "btn-outline-dark"
+    },
+    {
+      "id": "fire",
+      "name": "fire",
+      "label": "Огонь",
+      "className": "btn-danger"
+    },
+    {
+      "id": "water",
+      "name": "water",
+      "label": "Вода",
+      "className": "btn-primary"
+    },
+    {
+      "id": "wind",
+      "name": "wind",
+      "label": "Ветер",
+      "className": "btn-success"
+    },
+    {
+      "id": "earth",
+      "name": "earth",
+      "label": "Земля",
+      "className": "btn-"
+    },
+    {
+      "id": "T0nSL_e"
+    }
+  ]
+}
